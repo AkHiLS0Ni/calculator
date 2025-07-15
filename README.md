@@ -22,5 +22,4 @@ This is a **simple and stylish calculator** built using **HTML, CSS, and JavaScr
 
 ---
 
-## 📁 Project Structure
 
