@@ -21,5 +21,8 @@ This is a **simple and stylish calculator** built using **HTML, CSS, and JavaScr
   - 🧠 JavaScript for logic
 
 ---
+## 🖼️ Screenshot
+
+![Calculator Screenshot](screenshot.png)
 
 
