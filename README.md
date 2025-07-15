@@ -23,6 +23,6 @@ This is a **simple and stylish calculator** built using **HTML, CSS, and JavaScr
 ---
 ## 🖼️ Screenshot
 
-![Calculator Screenshot](screenshot.png)
+![Calculator Screenshot](screenshot.png.png)
 
 
