@@ -4,7 +4,7 @@ This is a **simple and stylish calculator** built using **HTML, CSS, and JavaScr
 
 ## 🚀 Live Preview
 
-[👉 Click here to see the live demo] (#http://127.0.0.1:3000/index.html)  
+[👉 Click here to see the live demo] (#https://akhils0ni.github.io/calculator/)  
 
 
 ---
